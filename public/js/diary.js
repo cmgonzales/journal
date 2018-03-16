@@ -1,3 +1,3 @@
 
-var names = document.getElementById("name");
+var names = document.getElementById("namey");
 names.textContent = document.cookie;

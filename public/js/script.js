@@ -4,7 +4,7 @@ var months = "";
 
 function fulldate(mo){
   
-    document.cookie = mo;
+    document.cookie = "test" + mo;
 }
 
 function test(){
